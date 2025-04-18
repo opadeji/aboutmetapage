@@ -721,11 +721,9 @@ cursor: pointer;
 }
 @media (max-width:750px) {
     .video-content h1{
-        bottom: 20%;
+     font-size: large;
+     bottom: 50%;
 
     }
-    .footer{
-        display: flex;
-        flex-direction: row;
-    }
+
 }
