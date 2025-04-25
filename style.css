@@ -344,7 +344,10 @@ font-size: 14px;
     max-width: 1050px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 150px 240px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: auto;
+    margin-right: auto;
    
     
 }.informed-text h1{
@@ -414,7 +417,10 @@ cursor: pointer;
     max-width: 1150px;
     display: flex;
     align-items: center;
-    margin: 150px 240px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 .leadership img{
